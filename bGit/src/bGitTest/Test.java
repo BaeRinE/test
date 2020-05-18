@@ -12,6 +12,7 @@ public class Test {
 
 		System.out.println("XXXXXXXXXXXX");
 
+		System.out.println("AAAAAAAAAAAA");
 	}
 
 }
