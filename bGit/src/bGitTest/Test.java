@@ -12,7 +12,7 @@ public class Test {
 
 		System.out.println("XXXXXXXXXXXX");
 
-		System.out.println('ZZZZZZZZZZZZ');
+		System.out.println("ZZZZZZZZZZZZ");
 	}
 
 }
