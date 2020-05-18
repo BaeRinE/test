@@ -6,6 +6,8 @@ public class Test {
 		System.out.println("안뇽?");
 		
 		System.out.println("그래 안녕 나는 조원이야");
+		
+		System.out.println("YYYYYYYYYYYYY");
 	}
 
 }
